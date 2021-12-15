@@ -1,0 +1,36 @@
+.ReviewCard {
+  background-color: #5386e4;
+  border: 3px solid;
+  border-color: #5386e4;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 10px;
+
+  margin: auto;
+  margin-top: 40px;
+  width: 50%;
+}
+
+.ReviewCard .Title {
+  padding: 5px 0px;
+  text-align: left;
+  color: #fff;
+}
+
+.ReviewCard .Title p{
+  margin: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.ReviewCard .Content {
+  min-height: 100px;
+  text-align: left;
+  background-color: #fff;
+  color: #000;
+  padding: 10px;
+}
+
+.AlignRight {
+	float: right;
+}

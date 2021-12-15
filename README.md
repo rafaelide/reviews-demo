@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# Reviews App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Before start
+Set the application configuration in config.js file.
 
 ## Available Scripts
 
